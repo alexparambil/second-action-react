@@ -9,9 +9,6 @@ jobs:
       - name: Print goodbye
         run: echo "Done - bye!"
 
-
-Action
-
 name: Test Project
 on: push
 jobs:
